@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @kikookraft
-- 👀 I’m interested in **yes**
-- 🌱 I’m currently learning **yes**
-- 💞️ I’m looking to collaborate on **yes**
-- 📫 How to reach me **of course**
+Love making litles games in any language i learn
 
 <!---
 kikookraft/kikookraft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
