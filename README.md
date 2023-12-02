@@ -1,4 +1,4 @@
-Love making litles games in any language i learn
+I make random things...
 
 <!---
 kikookraft/kikookraft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
